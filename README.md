@@ -1,5 +1,6 @@
 # SpiritMS-Bot
-Discord bot that SpiritMS Server used, coded by Brandon Nguyen. Works with swordie sources if you add some of the functions. 
+Discord bot that SpiritMS Server used, coded by Brandon Nguyen. Works with swordie sources if you add some of the functions.
+This can be directly used in the source, meaning its built into the source.
 Not meant to be used, for viewing purposes.
 
 If you do use it, you'll need to import some dependencies via Maven.
